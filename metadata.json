@@ -1,0 +1,8 @@
+{
+  "name": "City Living Solutions",
+  "description": "High-converting property management website for City Living Solutions in Miami.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
