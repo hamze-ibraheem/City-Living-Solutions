@@ -12,6 +12,7 @@ import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import FloatingPromo from './components/FloatingPromo';
 
 export default function App() {
   const [darkMode, setDarkMode] = useState(() => {
@@ -47,6 +48,7 @@ export default function App() {
           <Contact />
         </main>
         <Footer />
+        <FloatingPromo />
       </div>
     </div>
   );
